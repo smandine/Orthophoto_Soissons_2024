@@ -137,7 +137,7 @@
 				<Title>soissons_orthophoto_2024_png9_jpeg50</Title>
 				<Abstract>GH:soissons_orthophoto_2024_png9_jpeg50 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:tif:::disabledownload:notListing::maxZoom:1</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="3.2894776132650305" miny="49.35491885089051" maxx="3.357744188645522" maxy="49.398114447585925"></LatLonBoundingBox>
