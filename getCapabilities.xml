@@ -140,8 +140,8 @@
 					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="3.2894776088303086" miny="49.354918850400686" maxx="3.3577441980643625" maxy="49.39811445612148"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="721036.75" miny="6917322.82" maxx="725976.161" maxy="6922108.211"></BoundingBox>
+				<LatLonBoundingBox minx="3.2894776132650305" miny="49.35491885089051" maxx="3.357744188645522" maxy="49.398114447585925"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="721036.750322092" miny="6917322.820051418" maxx="725976.1603203759" maxy="6922108.21005155"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
